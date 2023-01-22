@@ -23,10 +23,12 @@ Formatting and styling is accomplished with the [Bootstrap](https://getbootstrap
 
 ## 🍿 Demo
 * The public facing portion of the app was previously available at feelz.cc and was hosted as a droplet at DigitalOcean.  
+
 A video of the feelz.cc app is found [here.](https://youtu.be/h05iwgrIGwI)  
 
 * The private analytics portal, while hosted in the same location, was available at at feelz.cc/analytics_portal.  
 * In addition to data analytics, a user management interface is incorporated to manage the list of data analysts allowed to interact with the saved data.  
+
 A video of the analytics portal is [here.](https://youtu.be/Rb318j61OX8)
 
 ## 🙏 Gratitude
